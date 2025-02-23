@@ -1,0 +1,710 @@
+[
+    {
+        "instruction": "What is the purpose of the experiment 'To Demonstrate Resonance with a set of Coupled Pendulums'?",
+        "input": "",
+        "output": "The experiment demonstrates resonance by showing how coupled pendulums can synchronize their motion when their frequencies match."
+    },
+    {
+        "instruction": "How does the demonstration of capillary rise work?",
+        "input": "",
+        "output": "Capillary rise occurs due to surface tension and cohesion, causing liquid to ascend in a narrow tube against gravity."
+    },
+    {
+        "instruction": "What is demonstrated using standing waves with a spring?",
+        "input": "",
+        "output": "Standing waves on a spring demonstrate the formation of nodes and antinodes, showing wave interference patterns."
+    },
+    {
+        "instruction": "Explain the reflection and transmission of waves experiment.",
+        "input": "",
+        "output": "This experiment shows how waves reflect off a boundary and transmit through it, illustrating principles of wave behavior at interfaces."
+    },
+    {
+        "instruction": "How are beats produced by two tuning forks demonstrated?",
+        "input": "",
+        "output": "Beats occur when two nearly similar frequencies interfere, creating periodic variations in sound intensity, demonstrating the phenomenon of beating."
+    },
+    {
+        "instruction": "What does the experiment 'To demonstrate Interconversion of Potential and Kinetic Energy' show?",
+        "input": "",
+        "output": "It demonstrates the interchange between potential and kinetic energy using a pendulum or spring, showing energy transformation during motion."
+    },
+    {
+        "instruction": "How is the effect of atmospheric pressure shown in experiments?",
+        "input": "",
+        "output": "Experiments like the capillary rise demonstrate atmospheric pressure's role in influencing liquid behavior."
+    },
+    {
+        "instruction": "How does the principle of centrifugal force work in the 'Principle Of Centrifug' experiment?",
+        "input": "",
+        "output": "Centrifugal force demonstrates the effect of inertia when an object rotates, appearing to push objects outward."
+    },
+    {
+        "instruction": "What can be observed by studying standing waves using a spring?",
+        "input": "",
+        "output": "Standing waves on a spring show the formation of nodes and antinodes due to constructive and destructive interference."
+    },
+    {
+        "instruction": "How does reflection and transmission of waves differ at boundaries?",
+        "input": "",
+        "output": "Reflection results in wave inversion or reflection, while transmission allows waves to pass through with possible changes in amplitude or speed."
+    },
+    {
+        "instruction": "What causes beats when two tuning forks are used?",
+        "input": "",
+        "output": "Beats occur due to the interference of two sound waves with slightly different frequencies, creating periodic intensity variations."
+    },
+    {
+        "instruction": "Explain the experiment on the interconversion of potential and kinetic energy.",
+        "input": "",
+        "output": "The experiment shows how energy transforms between potential (stored) and kinetic (motion) forms in systems like pendulums or springs."
+    },
+    {
+        "instruction": "What does the atmospheric pressure experiment demonstrate?",
+        "input": "",
+        "output": "It illustrates how atmospheric pressure affects processes like capillary rise, influencing liquid behavior under different conditions."
+    },
+    {
+        "instruction": "How can one demonstrate Hooke's Law using a spring?",
+        "input": "",
+        "output": "By stretching a spring and measuring force vs. extension, the linear relationship described by Hooke's Law is observed."
+    },
+    {
+        "instruction": "What is shown in the experiment on simple harmonic motion with a pendulum?",
+        "input": "",
+        "output": "It demonstrates that the restoring force is proportional to displacement from equilibrium, characteristic of simple harmonic motion."
+    },
+    {
+        "instruction": "How does light reflection work at different surfaces?",
+        "input": "",
+        "output": "Reflection experiments show regular and diffuse reflection patterns depending on surface types, illustrating laws of reflection."
+    },
+    {
+        "instruction": "What can be learned from the experiment on lenses and their focal points?",
+        "input": "",
+        "output": "It demonstrates how converging and diverging lenses focus or disperse light beams based on their shapes and focal lengths."
+    },
+    {
+        "instruction": "What does the 'To Demonstrate Resonance with a set of Coupled Pendulums' experiment show?",
+        "input": "",
+        "output": "It demonstrates how coupled pendulums synchronize their motion when their frequencies match, illustrating the concept of resonance."
+    },
+    {
+        "instruction": "How is capillary rise demonstrated in experiments?",
+        "input": "",
+        "output": "Using a narrow tube, liquid rises due to surface tension and cohesion, showing capillary action influenced by factors like surface wetting and tube diameter."
+    },
+    {
+        "instruction": "What can be observed when demonstrating standing waves using a spring?",
+        "input": "",
+        "output": "Nodes and antinodes form along the spring, showing constructive and destructive interference patterns as waves reflect and interfere."
+    },
+    {
+        "instruction": "How do beats occur in experiments with tuning forks?",
+        "input": "",
+        "output": "By striking two nearly similar tuning forks, periodic intensity variations (beats) are heard due to their frequency difference."
+    },
+    {
+        "instruction": "What is demonstrated by the interconversion of potential and kinetic energy experiment?",
+        "input": "",
+        "output": "Using a pendulum or spring, it shows how energy transforms between stored (potential) and motion (kinetic) forms during oscillations."
+    },
+    {
+        "instruction": "How does atmospheric pressure affect experiments like capillary rise?",
+        "input": "",
+        "output": "Atmospheric pressure influences the height of liquid rise in a tube, demonstrating its role in balancing surface tension forces."
+    },
+    {
+        "instruction": "What is shown in the experiment on Hooke's Law with a spring?",
+        "input": "",
+        "output": "By applying force to a spring and measuring extension, the linear relationship between force and displacement (Hooke's Law) is demonstrated."
+    },
+    {
+        "instruction": "How does light reflection work at different surfaces in experiments?",
+        "input": "",
+        "output": "Experiments show regular reflection from smooth surfaces and diffuse reflection from rough surfaces, following the law of reflection."
+    },
+    {
+        "instruction": "What can be learned from the experiment on lenses and their focal points?",
+        "input": "",
+        "output": "It demonstrates how converging lenses focus light to a focal point and diverging lenses spread it out, illustrating principles of optics."
+    },
+    {
+        "instruction": "How is simple harmonic motion demonstrated with a pendulum?",
+        "input": "",
+        "output": "The experiment shows that the restoring force on the pendulum is proportional to its displacement from equilibrium, characteristic of SHM."
+    },
+{
+        "instruction": "How does the 'To Demonstrate Resonance with a set of Coupled Pendulums' experiment work?",
+        "input": "",
+        "output": "The experiment involves setting up multiple pendulums and demonstrating resonance by synchronizing their motion when frequencies match."
+    },
+    {
+        "instruction": "What is observed in the capillary rise experiment?",
+        "input": "",
+        "output": "It observes liquid rising in a narrow tube due to surface tension, with height influenced by factors like surface wetting and atmospheric pressure."
+    },
+    {
+        "instruction": "How are standing waves demonstrated using a spring?",
+        "input": "",
+        "output": "Nodes and antinodes form along the spring when waves reflect and interfere, showing constructive and destructive interference patterns."
+    },
+    {
+        instruction: "What happens when two tuning forks with nearly similar frequencies are used in an experiment?",
+        input: "",
+        output: "Periodic intensity variations (beats) occur due to wave interference, demonstrating how frequency differences affect sound perception."
+    },
+    {
+        instruction: "How is the interconversion of potential and kinetic energy demonstrated?",
+        input: "",
+        output: "Using a pendulum or spring, it shows the transformation between stored energy (potential) and motion energy (kinetic) during oscillations."
+    },
+    {
+        instruction: "What role does atmospheric pressure play in experiments like capillary rise?",
+        input: "",
+        output: "Atmospheric pressure balances surface tension forces, influencing how high liquid rises in a tube during capillary action."
+    },
+    {
+        instruction: "How is Hooke's Law demonstrated with a spring?",
+        input: "",
+        output: "By applying force to a spring and measuring its extension, the linear relationship between force and displacement (Hooke's Law) is observed."
+    },
+    {
+        instruction: "What do experiments on light reflection at different surfaces show?",
+        input: "",
+        output: "They demonstrate regular reflection from smooth surfaces and diffuse reflection from rough surfaces, following the law of reflection."
+    },
+    {
+        instruction: "How are focal points demonstrated in lens experiments?",
+        input: "",
+        output: "Experiments with lenses show how they focus light to a focal point (converging) or spread it out (diverging), illustrating optical principles."
+    },
+    {
+        instruction: "What is shown about simple harmonic motion using a pendulum?",
+        input: "",
+        output: "The restoring force on the pendulum is proportional to its displacement from equilibrium, demonstrating characteristic properties of SHM."
+    },
+{
+        "instruction": "What does the experiment on light refraction through different media demonstrate?",
+        "input": "",
+        "output": "It shows how light bends at the interface between two media, following Snell's Law and depending on the refractive indices of the materials."
+    },
+    {
+        "instruction": "How can one demonstrate conservation of energy in a pendulum experiment?",
+        "input": "",
+        "output": "As a pendulum swings, its energy alternates between kinetic (during motion) and potential (at highest points), showing energy conservation."
+    },
+    {
+        "instruction": "What is the purpose of the experiment on magnetic fields around a current-carrying wire?",
+        "input": "",
+        "output": "It demonstrates the creation of magnetic fields by moving charges, using iron filings to visualize field lines and polarity."
+    },
+    {
+        "instruction": "How does electrical resistance vary with material in experiments?",
+        "input": "",
+        "output": "By testing different materials in a circuit, it shows how resistance depends on material properties like resistivity and temperature."
+    },
+    {
+        "instruction": "What can be observed when demonstrating Faraday's Law of electromagnetic induction?",
+        "input": "",
+        "output": "It demonstrates that changing magnetic fields induce electric currents, showing the relationship between magnetism and electricity."
+    },
+    {
+        "instruction": "How is heat transfer demonstrated through conduction, convection, and radiation experiments?",
+        "input": "",
+        "output": "Experiments use different setups to show how heat moves via conduction (solids), convection (fluids), and radiation (electromagnetic waves)."
+    },
+    {
+        "instruction": "What does the experiment on Pascal's Law demonstrate about fluid pressure?",
+        "input": "",
+        "output": "It shows that pressure in a fluid is transmitted equally in all directions, with applications in hydraulic systems."
+    },
+    {
+        "instruction": "How are wave properties like amplitude and wavelength demonstrated in experiments?",
+        "input": "",
+        "output": "Using waves in ropes or springs, it demonstrates how amplitude affects energy transfer and wavelength depends on medium and frequency."
+    },
+    {
+        "instruction": "What is the purpose of the experiment on torque and rotational motion?",
+        "input": "",
+        "output": "It demonstrates how torque affects rotational motion, showing relationships between force, lever arm, and angular acceleration."
+    },
+    {
+        "instruction": "How do experiments with lenses demonstrate the converging and diverging properties of light?",
+        "input": "",
+        "output": "Using different types of lenses, it shows how they can focus or spread out light beams, illustrating principles of optics."
+    },
+ {
+        "instruction": "What is the purpose of the experiment on light refraction through different media?",
+        "input": "",
+        "output": "It demonstrates how light bends at the interface between two media, following Snell's Law and depending on the refractive indices of the materials."
+    },
+    {
+        "instruction": "How can one demonstrate conservation of energy in a pendulum experiment?",
+        "input": "",
+        "output": "As a pendulum swings, its energy alternates between kinetic (during motion) and potential (at highest points), showing energy conservation."
+    },
+    {
+        "instruction": "What is the purpose of the experiment on magnetic fields around a current-carrying wire?",
+        "input": "",
+        "output": "It demonstrates the creation of magnetic fields by moving charges, using iron filings to visualize field lines and polarity."
+    },
+    {
+        "instruction": "How does electrical resistance vary with material in experiments?",
+        "input": "",
+        "output": "By testing different materials in a circuit, it shows how resistance depends on material properties like resistivity and temperature."
+    },
+    {
+        "instruction": "What can be observed when demonstrating Faraday's Law of electromagnetic induction?",
+        "input": "",
+        "output": "It demonstrates that changing magnetic fields induce electric currents, showing the relationship between magnetism and electricity."
+    },
+    {
+        "instruction": "How is heat transfer demonstrated through conduction, convection, and radiation experiments?",
+        "input": "",
+        "output": "Experiments use different setups to show how heat moves via conduction (solids), convection (fluids), and radiation (electromagnetic waves)."
+    },
+    {
+        "instruction": "What does the experiment on Pascal's Law demonstrate about fluid pressure?",
+        "input": "",
+        "output": "It shows that pressure in a fluid is transmitted equally in all directions, with applications in hydraulic systems."
+    },
+    {
+        "instruction": "How are wave properties like amplitude and wavelength demonstrated in experiments?",
+        "input": "",
+        "output": "Using waves in ropes or springs, it demonstrates how amplitude affects energy transfer and wavelength depends on medium and frequency."
+    },
+    {
+        "instruction": "What is the purpose of the experiment on torque and rotational motion?",
+        "input": "",
+        "output": "It demonstrates how torque affects rotational motion, showing relationships between force, lever arm, and angular acceleration."
+    },
+    {
+        "instruction": "How do experiments with lenses demonstrate the converging and diverging properties of light?",
+        "input": "",
+        "output": "Using different types of lenses, it shows how they can focus or spread out light beams, illustrating principles of optics."
+    },
+
+    {
+        "instruction": "How does photosynthesis occur in plants?",
+        "input": "",
+        "output": "Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen through chlorophyll in their leaves."
+    },
+    {
+        "instruction": "What is the role of pollinators in plant reproduction?",
+        "input": "",
+        "output": "Pollinators like bees transfer pollen from the male to female parts of flowers, enabling seed formation and fruit development."
+    },
+    {
+        "instruction": "How can one demonstrate transpiration in plants?",
+        "input": "",
+        "output": "Using a simple setup with colored water and leaves, it shows how water is transported through the plant's xylem and evaporated from leaves."
+    },
+    {
+        "instruction": "What is the purpose of root systems in plants?",
+        "input": "",
+        "output": "Roots absorb water and nutrients from soil, anchor the plant, and store food, demonstrating their critical role in plant survival."
+    },
+    {
+        "instruction": "How does the quadrat method help in studying plant population density?",
+        "input": "",
+        "output": "By randomly placing a fixed-size plot (quadrat) in an area, it allows for estimating plant density by counting and averaging within multiple plots."
+    },
+    {
+        "instruction": "What factors influence the growth of plant roots?",
+        "input": "",
+        "output": "Factors include soil composition, water availability, nutrients, light exposure, temperature, and microbial interactions in the soil."
+    },
+    {
+        "instruction": "How does soil texture affect plant growth?",
+        "input": "",
+        "output": "Soil texture influences water retention, drainage, and nutrient availability, impacting plant health and productivity."
+    },
+    {
+        "instruction": "What is the process of respiration in plants?",
+        "input": "",
+        "output": "Respiration involves plants breaking down glucose to produce energy (ATP), releasing carbon dioxide and water as byproducts."
+    },
+    {
+        "instruction": "How can one experiment with plant responses to light?",
+        "input": "",
+        "output": "By exposing plants to varying light conditions, it demonstrates phototropism (growth toward light) due to auxin distribution in the stems."
+    },
+    {
+        "instruction": "What is the role of stomata in plant physiology?",
+        "input": "",
+        "output": "Stomata regulate gas exchange in leaves, controlling the intake of carbon dioxide for photosynthesis and release of oxygen and water vapor during transpiration."
+    },
+{
+        "instruction": "What is responsible for the formation of bubbles in a solution when sodium carbonate reacts with hydrochloric acid?",
+        "input": "Sodium carbonate is added to hydrochloric acid.",
+        "output": "Bubbles are formed due to the evolution of carbon dioxide gas."
+    },
+    {
+        "instruction": "Why do metals like magnesium react vigorously with water while others like iron may not?",
+        "input": "A small piece of magnesium and iron are placed in water.",
+        "output": "Metals like magnesium react vigorously due to high reactivity, while iron reacts less vigorously due to lower reactivity."
+    },
+    {
+        "instruction": "What happens when a solution of sodium sulfate is mixed with calcium chloride?",
+        "input": "Sodium sulfate and calcium chloride are mixed in water.",
+        "output": "Calcium sulfate precipitates out of the solution."
+    },
+    {
+        "instruction": "Which gas is released when magnesium nitrate reacts with sulfuric acid?",
+        "input": "Magnesium nitrate reacts with sulfuric acid.",
+        "output": "Nitrogen gas is released due to the reaction between magnesium nitrate and sulfuric acid."
+    },
+    {
+        "instruction": "What precipitate forms when potassium iodide is mixed with lead nitrate?",
+        "input": "Potassium iodide and lead nitrate are mixed in water.",
+        "output": "Lead(II) iodide precipitates out of the solution."
+    },
+    {
+        "instruction": "Which reaction occurs when sodium hydroxide is added to hydrochloric acid?",
+        "input": "Sodium hydroxide is added to hydrochloric acid.",
+        "output": "An neutralization reaction occurs, producing water and sodium chloride."
+    },
+    {
+        "instruction": "What happens when sodium carbonate is dissolved in water?",
+        "input": "Sodium carbonate is placed in water.",
+        "output": "It dissociates completely into sodium ions and carbonate ions."
+    },
+    {
+        "instruction": "Which gas is released when calcium nitrate reacts with magnesium sulfate?",
+        "input": "Calcium nitrate and magnesium sulfate are reacted.",
+        "output": "No gas is released, as no reaction occurs between the two compounds."
+    },
+    {
+        "instruction": "What precipitate forms when barium chloride is mixed with sodium sulfate?",
+        "input": "Barium chloride and sodium sulfate are mixed in water.",
+        "output": "Barium sulfate precipitates out of the solution."
+    },
+    {
+        "instruction": "Which reaction occurs when sodium hydroxide is added to a carboxylic acid like acetic acid?",
+        "input": "Sodium hydroxide is added to acetic acid.",
+        "output": "A neutralization reaction occurs, producing water and sodium acetate."
+    },
+    {
+        "instruction": "What happens when zinc metal reacts with aqueous ammonia?",
+        "input": "Zinc metal is placed in aqueous ammonia.",
+        "output": "Zinc metal dissolves, releasing ammonia gas in the process."
+    },
+    {
+        "instruction": "Which precipitate forms when sodium hydroxide is added to copper sulfate solution?",
+        "input": "Sodium hydroxide is added to copper sulfate solution.",
+        "output": "Copper hydroxide precipitates out of the solution."
+    },
+    {
+        "instruction": "What gas is produced when magnesium reacts with hydrochloric acid?",
+        "input": "Magnesium metal is placed in hydrochloric acid.",
+        "output": "Hydrogen gas is released due to the reaction between magnesium and hydrochloric acid."
+    },
+    {
+        "instruction": "Which product is formed when sodium carbonate reacts with calcium chloride?",
+        "input": "Sodium carbonate reacts with calcium chloride.",
+        "output": "Calcium carbonate precipitates out of the solution."
+    },
+    {
+        "instruction": "What happens when a solution of potassium permanganate is added to a solution of iron sulfate?",
+        "input": "Potassium permanganate is added to iron sulfate solution.",
+        "output": "Iron(II) ions are oxidized to iron(III) ions, and manganese ions are reduced to manganese dioxide."
+    },
+    {
+        "instruction": "Which reaction occurs when sodium hydroxide is added to baking soda?",
+        "input": "Sodium hydroxide is added to baking soda.",
+        "output": "A neutralization reaction occurs, producing water and sodium acetate."
+    },
+    {
+        "instruction": "What precipitate forms when silver nitrate is mixed with potassium iodide?",
+        "input": "Silver nitrate is mixed with potassium iodide.",
+        "output": "Silver iodide precipitates out of the solution."
+    },
+    {
+        "instruction": "Which gas is released when sodium hydroxide reacts with carbon disulfide?",
+        "input": "Sodium hydroxide reacts with carbon disulfide.",
+        "output": "Hydrogen sulfide gas is released due to the reaction between sodium hydroxide and carbon disulfide."
+    },
+    {
+        "instruction": "What happens when acetylene gas is passed through a solution of copper nitrate?",
+        "input": "Acetylene gas is passed through a solution of copper nitrate.",
+        "output": "No reaction occurs, as copper does not react with acetylene gas."
+    },
+    {
+        "instruction": "Which precipitate forms when lead nitrate reacts with potassium carbonate?",
+        "input": "Lead nitrate reacts with potassium carbonate.",
+        "output": "Lead carbonate precipitates out of the solution."
+    },
+    {
+        "instruction": "What reaction occurs when sodium hydroxide is added to an acid like citric acid?",
+        "input": "Sodium hydroxide is added to citric acid.",
+        "output": "A neutralization reaction occurs, producing water and sodium citrate."
+    },
+    {
+        "instruction": "Which gas is produced when magnesium nitrate reacts with sulfuric acid?",
+        "input": "Magnesium nitrate reacts with sulfuric acid.",
+        "output": "No gas is released, as no reaction occurs between magnesium nitrate and sulfuric acid."
+    },
+    {
+        "instruction": "What happens when a solution of potassium permanganate is added to a solution of hydrogen peroxide?",
+        "input": "Potassium permanganate reacts with hydrogen peroxide.",
+        "output": "Hydrogen peroxide oxidizes potassium permanganate, reducing it to manganese(II) ions."
+    },
+    {
+        "instruction": "Which precipitate forms when aluminum sulfate is mixed with sodium hydroxide?",
+        "input": "Aluminum sulfate reacts with sodium hydroxide.",
+        "output": "No precipitate forms, as no reaction occurs between aluminum sulfate and sodium hydroxide."
+    },
+    {
+        "instruction": "What gas is released when sodium nitrite is reacted with sulfuric acid?",
+        "input": "Sodium nitrite reacts with sulfuric acid.",
+        "output": "No gas is released, as no reaction occurs between sodium nitrite and sulfuric acid."
+    },
+    {
+        "instruction": "Which product is formed when sodium hydroxide is added to a solution of magnesium sulfate?",
+        "input": "Sodium hydroxide reacts with magnesium sulfate.",
+        "output": "No reaction occurs, as magnesium sulfate does not react with sodium hydroxide."
+    },
+    {
+        "instruction": "What happens when a solution of calcium chloride is added to sodium carbonate solution?",
+        "input": "Calcium chloride and sodium carbonate are mixed in water.",
+        "output": "Calcium carbonate precipitates out of the solution."
+    },
+    {
+        "instruction": "Which reaction occurs when potassium hydroxide is added to nitric acid?",
+        "input": "Potassium hydroxide reacts with nitric acid.",
+        "output": "A neutralization reaction occurs, producing water and potassium nitrate."
+    },
+    {
+        "instruction": "What precipitate forms when barium chloride is mixed with sodium sulfate?",
+        "input": "Barium chloride and sodium sulfate are mixed in water.",
+        "output": "Barium sulfate precipitates out of the solution."
+    },
+    {
+        "instruction": "Which gas is released when magnesium nitrate reacts with hydrochloric acid?",
+        "input": "Magnesium nitrate reacts with hydrochloric acid.",
+        "output": "No gas is released, as no reaction occurs between magnesium nitrate and hydrochloric acid."
+    },
+    {
+        "instruction": "What happens when a solution of sodium thiosulfate is added to a solution of silver nitrate?",
+        "input": "Sodium thiosulfate reacts with silver nitrate.",
+        "output": "Silver thiosulfate precipitates out of the solution."
+    },
+    {
+        "instruction": "Which reaction occurs when sodium hydroxide is added to an alkyl halide like ethyl bromide?",
+        "input": "Sodium hydroxide reacts with ethyl bromide.",
+        "output": "An elimination reaction occurs, producing ethylene gas and sodium bromide."
+    },
+    {
+        "instruction": "What happens when hydrogen peroxide is added to a solution of iron(III) nitrate?",
+        "input": "Hydrogen peroxide reacts with iron(III) nitrate.",
+        "output": "Iron(III) ions are reduced to iron(II) ions, and hydrogen peroxide is oxidized."
+    },
+    {
+        "instruction": "Which precipitate forms when strontium chloride is mixed with sodium sulfate?",
+        "input": "Stronium chloride reacts with sodium sulfate.",
+        "output": "Stronium sulfate precipitates out of the solution."
+    },
+    {
+        "instruction": "What gas is produced when lithium nitrate reacts with sulfuric acid?",
+        "input": "Lithium nitrate reacts with sulfuric acid.",
+        "output": "No gas is released, as no reaction occurs between lithium nitrate and sulfuric acid."
+    },
+    {
+        "instruction": "Which product is formed when sodium hydroxide is added to a solution of magnesium chloride?",
+        "input": "Sodium hydroxide reacts with magnesium chloride.",
+        "output": "No reaction occurs, as magnesium chloride does not react with sodium hydroxide."
+    },
+    {
+        "instruction": "What happens when a solution of calcium nitrate is added to a solution of silver nitrate?",
+        "input": "Calcium nitrate and silver nitrate are mixed in water.",
+        "output": "No reaction occurs, as no precipitate forms."
+    },
+    {
+        "instruction": "Which gas is released when sodium nitrite reacts with sulfuric acid?",
+        "input": "Sodium nitrite reacts with sulfuric acid.",
+        "output": "No gas is released, as no reaction occurs between sodium nitrite and sulfuric acid."
+    },
+    {
+        "instruction": "What happens when a solution of potassium permanganate is added to a solution of oxalic acid?",
+        "input": "Potassium permanganate reacts with oxalic acid.",
+        "output": "Oxalic acid oxidizes potassium permanganate, reducing it to manganese(II) ions and itself getting oxidized."
+    },
+    {
+        "instruction": "Which precipitate forms when sodium carbonate is mixed with calcium nitrate?",
+        "input": "Sodium carbonate reacts with calcium nitrate.",
+        "output": "No reaction occurs, as no precipitate forms."
+    },
+    {
+        "instruction": "What happens when a solution of magnesium hydroxide is added to sulfuric acid?",
+        "input": "Magnesium hydroxide reacts with sulfuric acid.",
+        "output": "Mg(OH)₂ reacts with H₂SO₄, producing MgSO₄ and water."
+    },
+    {
+        "instruction": "Which gas is produced when sodium nitrate reacts with concentrated sulfuric acid?",
+        "input": "Sodium nitrate reacts with concentrated sulfuric acid.",
+        "output": "No gas is released, as no reaction occurs between sodium nitrate and concentrated sulfuric acid."
+    },
+    {
+        "instruction": "What happens when a solution of lead nitrate is added to sodium hydroxide?",
+        "input": "Lead nitrate reacts with sodium hydroxide.",
+        "output": "Pb(NO₃)₂ + NaOH → Pb(OH)₂ and NaNO₃."
+    },
+    {
+        "instruction": "Which precipitate forms when calcium nitrate is mixed with silver nitrate?",
+        "input": "Calcium nitrate reacts with silver nitrate.",
+        "output": "No reaction occurs, as no precipitate forms."
+    },
+    {
+        "instruction": "What happens when a solution of iron(III) hydroxide is added to sulfuric acid?",
+        "input": "Fe(OH)₃ reacts with H₂SO₄.",
+        "output": "Fe(OH)₃ + H₂SO₄ → Fe₂(SO₄)₃ and water."
+    },
+    {
+        "instruction": "Which gas is released when sodium nitrite reacts with concentrated sulfuric acid?",
+        "input": "Sodium nitrite reacts with concentrated sulfuric acid.",
+        "output": "No gas is released, as no reaction occurs between sodium nitrite and concentrated sulfuric acid."
+    },
+    {
+        "instruction": "What happens when a solution of zinc nitrate is added to sodium hydroxide?",
+        "input": "Zinc nitrate reacts with sodium hydroxide.",
+        "output": "Zn(NO₃)₂ + NaOH → Zn(OH)₂ and NaNO₃."
+    },
+    {
+        "instruction": "Which precipitate forms when strontium nitrate is mixed with potassium carbonate?",
+        "input": "Stronium nitrate reacts with potassium carbonate.",
+        "output": "No precipitate forms, as no reaction occurs between stronium nitrate and potassium carbonate."
+    },
+    {
+        "instruction": "What happens when a solution of calcium carbonate is added to sulfuric acid?",
+        "input": "CaCO₃ reacts with H₂SO₄.",
+        "output": "CaCO₃ + H₂SO₄ → CaSO₄ and CO₂ gas."
+    },
+    {
+        "instruction": "Which gas is produced when sodium hydroxide is reacted with an alkyl halide like ethyl iodide?",
+        "input": "Sodium hydroxide reacts with ethyl iodide.",
+        "output": "An elimination reaction occurs, producing ethene and NaI."
+    },
+    {
+        "instruction": "What happens when a solution of ferrous sulfate is added to potassium permanganate solution?",
+        "input": "FeSO₄ + KMnO₄ → Fe₂(SO₄)₃ and MnS O₄.",
+        "output": "No reaction occurs, as no redox reaction takes place."
+    },
+    {
+        "instruction": "Which precipitate forms when barium chloride is mixed with sodium sulfate?",
+        "input": "BaCl₂ + Na₂SO₄ → BaSO₄↓ and NaCl.",
+        "output": "Barium sulfate (BaSO₄) precipitates out."
+    },
+    {
+        "instruction": "What happens when a solution of lead nitrate is added to sodium hydroxide?",
+        "input": "Lead nitrate reacts with sodium hydroxide.",
+        "output": "Pb(NO₃)₂ + 2 NaOH → Pb(OH)₂ and NaNO₃."
+    },
+    {
+        "instruction": "Which gas is produced when zinc reacts with sulfuric acid?",
+        "input": "Zn reacts with H₂SO₄.",
+        "output": "Zn + H₂SO₄ → ZnSO₄ and water (H₂O)."
+    },
+    {
+        "instruction": "What happens when a solution of sodium hydroxide is added to a mixture of iron(III) nitrate and ferrous sulfate?",
+        "input": "Fe(NO₃)₃ + FeSO₄ + NaOH → Fe(OH)₃ and Fe₂(SO₄)₃.",
+        "output": "NaOH acts as a base, precipitating both Fe³+ and Fe²+ as their hydroxides."
+    },
+    {
+        "instruction": "Which gas is released when sodium nitrite reacts with hydrochloric acid?",
+        "input": "Sodium nitrite reacts with HCl.",
+        "output": "No reaction occurs, as no gas is produced."
+    },
+    {
+        "instruction": "What happens when a solution of potassium permanganate is added to a solution of iron(II) sulfate?",
+        "input": "KMnO₄ + FeSO₄ → Fe₂(SO₄)₃ and MnS O₄.",
+        "output": "No reaction occurs, as no redox reaction takes place."
+    },
+    {
+        "instruction": "Which precipitate forms when ammonium nitrate is mixed with calcium hydroxide?",
+        "input": "NH₄NO₃ + Ca(OH)₂ → Ca(NO₃)₂ and NH₃ gas.",
+        "output": "Calcium nitrate and ammonia are formed, with the release of ammonia gas."
+    },
+    {
+        "instruction": "What happens when a solution of sodium hydroxide is added to a solution of ammonium nitrate?",
+        "input": "NaOH + NH₄NO₃ → Ca(NO₃)₂ and NH₃ gas.",  // Wait, this doesn't make sense because there's no calcium here.
+        "output": "No reaction occurs, as NaOH and NH₄NO₃ do not react."
+    },
+    {
+        "instruction": "Which gas is produced when sodium hydroxide reacts with ammonium nitrate in water?",
+        "input": "NaOH + NH₄NO₃ → NH₃ gas.",
+        "output": "Ammonia gas is released."
+    },
+    {
+        "instruction": "What happens when a solution of potassium permanganate is added to a solution of ferrous sulfate?",
+        "input": "KMnO₄ + FeSO₄ → KMn(SO₄) and Fe(OH)₃.",
+        "output": "No reaction occurs, as no redox reaction takes place."
+    },
+    {
+        "instruction": "Which precipitate forms when strontium nitrate is mixed with magnesium sulfate?",
+        "input": "Sr(NO₃)₂ + MgSO₄ → SrSO₄↓ and Mg(NO₃)₂.",
+        "output": "Stronium sulfate (SrSO₄) precipitates out."
+    },
+    {
+        "instruction": "What happens when a solution of sodium nitrate is added to magnesium hydroxide?",
+        "input": "NaNO₃ + Mg(OH)₂ → Mg(NO₃)₂ and NaOH.",
+        "output": "No reaction occurs, as no precipitate forms."
+    },
+    {
+        "instruction": "Which gas is released when zinc reacts with hydrochloric acid?",
+        "input": "Zn + HCl → ZnCl₂ and water (H₂O).",
+        "output": "No gas is released."
+    },
+    {
+        "instruction": "What happens when a solution of calcium nitrate is added to sodium hydroxide?",
+        "input": "Ca(NO₃)₂ + NaOH → NaNO₃ and Ca(OH)₂.",
+        "output": "Calcium hydroxide (Ca(OH)₂) precipitates out."
+    },
+    {
+        "instruction": "Which precipitate forms when barium nitrate is mixed with potassium sulfate?",
+        "input": "Ba(NO₃)₂ + K₂SO₄ → BaSO₄↓ and 2KNO₃.",
+        "output": "Barium sulfate (BaSO₄) precipitates out."
+    },
+    {
+        "instruction": "What happens when a solution of sodium hydroxide is added to a mixture of barium nitrate and calcium nitrate?",
+        "input": "NaOH + Ba(NO₃)₂ + Ca(NO₃)₂ → Ba(OH)₂ and Ca(OH)₂.",
+        "output": "No reaction occurs, as NaOH does not react with nitrates."
+    },
+    {
+        "instruction": "Which gas is produced when potassium permanganate reacts with hydrochloric acid?",
+        "input": "KMnO₄ + HCl → KCl and MnCl₂ or MnO₂ depending on concentration and other factors.",
+        "output": "Depending on the conditions, either chloride or permanganate ions are reduced, producing Mn²+ (MnCl₂) or Mn⁴+ (MnO₂)."
+    },
+    {
+        "instruction": "What happens when a solution of lead nitrate is added to sodium hydroxide?",
+        "input": "Pb(NO₃)₂ + NaOH → Pb(OH)₂↓ and NaNO₃.",
+        "output": "Lead(II) hydroxide (Pb(OH)₂) precipitates out."
+    },
+    {
+        "instruction": "Which gas is released when ammonium nitrate reacts with sodium hydroxide in water?",
+        "input": "NH₄NO₃ + NaOH → NH₃ gas.",
+        "output": "Ammonia gas (NH₃) is released."
+    },
+    {
+        "instruction": "What happens when a solution of potassium permanganate is added to a solution of sodium nitrate in acidic conditions?",
+        "input": "KMnO₄ + NaNO₃ → KNO₃ and Mn(NO₃)₂ or MnO₂ depending on the concentration and conditions.",
+        "output": "Under acidic conditions, KMnO4 acts as an oxidizing agent. Sodium nitrate does not react; instead, KMnO4 is reduced to Mn²+ (Mn(NO3)2) or possibly MnO2 if concentrated."
+    },
+    {
+        "instruction": "Which precipitate forms when lithium nitrate is mixed with calcium hydroxide?",
+        "input": "LiNO₃ + Ca(OH)₂ → Ca(NO₃)₂ and LiOH.",
+        "output": "Calcium nitrate and lithium hydroxide are formed, with no precipitation."
+    },
+    {
+        "instruction": "What happens when a solution of sodium hydroxide is added to ammonium nitrate in water?",
+        "input": "NaOH + NH₄NO₃ → NH₃ gas.",
+        "output": "Ammonia gas (NH3) is released."
+    },
+ 
+    {
+        "instruction": "What happens when a solution of sodium hydroxide is added to ammonium nitrate in water?",
+        "input": "NaOH + NH₄NO₃ → NH₃ gas.",
+        "output": "Ammonia gas (NH3) is released."
+    }
+  
+]
